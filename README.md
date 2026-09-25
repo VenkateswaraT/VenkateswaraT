@@ -2,7 +2,9 @@
 
 **Lead Software Engineer at [Certinia](https://certinia.com) · Salesforce platform**
 
-- 💬 **Ask me about:** Git: rebasing, resolving conflicts, cleaning up history, recovering lost work with reflog
+- 💬 **Ask me about:**
+  - **Git:** rebasing, resolving conflicts, cleaning up history, recovering lost work with reflog
+  - **Chrome DevTools:** debugging JavaScript, inspecting network requests, profiling performance
 
 ## 🤝 Connect with me
 
