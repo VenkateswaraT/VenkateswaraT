@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Venkateswara Tolla 👋</h1>
   <p><strong>Lead Software Engineer at <a href="https://certinia.com">Certinia</a></strong></p>
-  <p>Salesforce engineering · Developer tooling · Learning by doing</p>
+  <p>Salesforce engineering · Technical leadership · Developer tooling</p>
   <p>
     <a href="https://www.linkedin.com/in/venkateswarat/">
       <img src="assets/linkedin.svg" alt="Connect on LinkedIn" width="104" height="28">
@@ -17,7 +17,18 @@
 
 ---
 
-My work centers on the **Salesforce platform**. I'm interested in the details behind reliable integrations, useful tests, and developer tools that make everyday work easier.
+I'm a Salesforce engineer based in **Bengaluru, India**, with **10+ years of experience** spanning development, administration, user acceptance testing (UAT), and production support. At Certinia, my work brings together hands-on engineering and technical leadership.
+
+I'm interested in maintainable solutions, reliable integrations, and practical developer workflows, from Apex tests to small tools that make everyday work easier.
+
+## Salesforce credentials
+
+- **Platform Developer II**
+- **Platform Developer** (formerly Platform Developer I)
+- **Platform App Builder**
+- **Platform Administrator**
+
+**Trailhead:** Double Star Ranger
 
 ## Ask me about
 
