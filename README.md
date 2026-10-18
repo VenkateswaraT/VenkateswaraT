@@ -2,15 +2,9 @@
   <h1>Hi, I'm Venkateswara Tolla 👋</h1>
   <p><strong>Lead Software Engineer at <a href="https://certinia.com">Certinia</a></strong></p>
   <p>
-    <a href="https://www.linkedin.com/in/venkateswarat/">
-      <img src="assets/linkedin.svg" alt="Connect on LinkedIn" width="104" height="28">
-    </a>
-    <a href="https://x.com/Venkateswarat">
-      <img src="assets/x.svg" alt="Follow on X" width="40" height="28">
-    </a>
-    <a href="https://www.salesforce.com/trailblazer/venkateswarat">
-      <img src="assets/trailhead.svg" alt="Find me on Trailhead" width="112" height="28">
-    </a>
+    <a href="https://www.linkedin.com/in/venkateswarat/"><img src="assets/linkedin.svg" alt="Connect on LinkedIn" width="104" height="28"></a>
+    <a href="https://x.com/Venkateswarat"><img src="assets/x.svg" alt="Follow on X" width="40" height="28"></a>
+    <a href="https://www.salesforce.com/trailblazer/venkateswarat"><img src="assets/trailhead.svg" alt="Find me on Trailhead" width="112" height="28"></a>
   </p>
 </div>
 
