@@ -24,7 +24,7 @@ I'm interested in maintainable solutions, reliable integrations, and practical d
 ## Salesforce credentials
 
 - **Platform Developer II**
-- **Platform Developer** (formerly Platform Developer I)
+- **Platform Developer**
 - **Platform App Builder**
 - **Platform Administrator**
 
