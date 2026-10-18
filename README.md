@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Venkateswara Tolla 👋</h1>
   <p><strong>Lead Software Engineer at <a href="https://certinia.com">Certinia</a></strong></p>
-  <p>Salesforce engineering · Technical leadership · Developer tooling</p>
   <p>
     <a href="https://www.linkedin.com/in/venkateswarat/">
       <img src="assets/linkedin.svg" alt="Connect on LinkedIn" width="104" height="28">
@@ -17,9 +16,7 @@
 
 ---
 
-I'm a Salesforce engineer based in **Bengaluru, India**, with **10+ years of experience** spanning development, administration, user acceptance testing (UAT), and production support. At Certinia, my work brings together hands-on engineering and technical leadership.
-
-I'm interested in maintainable solutions, reliable integrations, and practical developer workflows, from Apex tests to small tools that make everyday work easier.
+I'm based in **Bengaluru, India**, and have spent **10+ years working with Salesforce**, from development and administration to user acceptance testing (UAT) and production support.
 
 ## Salesforce credentials
 
@@ -32,11 +29,11 @@ I'm interested in maintainable solutions, reliable integrations, and practical d
 
 ## Ask me about
 
-- **Salesforce development** — Apex, SOQL/SOSL, REST integrations, Platform Events, and testing callouts.
-- **Git workflows** — Choosing merge or rebase, resolving conflicts, investigating regressions, and recovering lost work with `reflog`.
-- **JavaScript & Chrome DevTools** — Understanding async behavior, debugging browser code, inspecting network requests, and profiling performance.
-- **Developer tooling** — Writing small Python and shell tools and processing JSON with `jq`.
+- **Salesforce:** Apex, SOQL/SOSL, REST integrations, Platform Events, and callout tests.
+- **Git:** when to merge or rebase, resolving conflicts, investigating regressions, and recovering lost work with `reflog`.
+- **Chrome DevTools:** JavaScript debugging, async behavior, network requests, and performance profiling.
+- **Python and shell:** small tools and processing JSON with `jq`.
 
-## Learning through practice
+## Beyond Salesforce
 
-I keep notes, write small experiments, and build tools for my own workflow. Beyond Salesforce, I also explore **React, Node.js, CSS, and PostgreSQL**, including indexing and query plans.
+I also explore **React, Node.js, and CSS**, and study **PostgreSQL indexing and query plans**.
