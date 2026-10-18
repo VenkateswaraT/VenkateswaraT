@@ -35,7 +35,7 @@ I'm interested in maintainable solutions, reliable integrations, and practical d
 - **Salesforce development** — Apex, SOQL/SOSL, REST integrations, Platform Events, and testing callouts.
 - **Git workflows** — Choosing merge or rebase, resolving conflicts, investigating regressions, and recovering lost work with `reflog`.
 - **JavaScript & Chrome DevTools** — Understanding async behavior, debugging browser code, inspecting network requests, and profiling performance.
-- **Developer tooling** — Writing small Python and shell tools, processing JSON with `jq`, and improving macOS/Zsh workflows.
+- **Developer tooling** — Writing small Python and shell tools and processing JSON with `jq`.
 
 ## Learning through practice
 
